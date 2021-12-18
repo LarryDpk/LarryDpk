@@ -14,7 +14,15 @@ I'm writing tech articles on my webSite [www.pkslow.com](https://www.pkslow.com)
 - DevOps
 
 ## Certificates
+- 2021-12-18 Terraform Associate
 - 2020-11 Certificated Kubernetes Administrator
+
+<img src="certificates/hashicorp-certified-terraform-associate.png" width="300">
+
+
+<img src="certificates/cka.jpeg" width="300">
+
+---
 
 # 关于南瓜
 大家好，我是南瓜，欢迎来到我的GitHub。我是一名在广州的Java开发。
@@ -31,6 +39,7 @@ I'm writing tech articles on my webSite [www.pkslow.com](https://www.pkslow.com)
 
 
 ## 证书
+- 2021-12 Terraform Associate
 - 2020-11 Certificated Kubernetes Administrator
 - 2013-06 学校优秀毕业生
 - 2012-12 优秀学生
