@@ -2,7 +2,7 @@
 收集一些有用的IT相关的资源，如网站、电子书、手册、软件、教程、面试指南等。很多对我还是很有用的，也希望能帮助到大家吧。
 
 以下两个地址可以访问：
-- [LarryDpk/ITResources GitHub](https://github.com/LarryDpk/ITResources)
+- [LarryDpk/ITResources GitHub](https://github.com/LarryDpk/LarryDpk/blob/main/ITResources.md)
 - [IT资源收集整理 南瓜慢说](https://www.pkslow.com/archives/it-resources)
 
 # 开源框架和库
