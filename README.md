@@ -49,4 +49,6 @@ I'm writing tech articles on my webSite [www.pkslow.com](https://www.pkslow.com)
 - 2011-12 大学英语六级
 - 2011-09 全国大学生数学建模大赛北京市一等奖
 
+## IT资源收集整理
+[IT资源收集整理](ITResources.md)
 
