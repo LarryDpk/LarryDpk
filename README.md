@@ -16,6 +16,7 @@ I'm writing tech articles on my webSite [www.pkslow.com](https://www.pkslow.com)
 ## Certificates
 - 2021-12-18 Terraform Associate
 - 2020-11 Certificated Kubernetes Administrator
+- 2011-12 CET-6 (College English Test)
 
 <img src="certificates/hashicorp-certified-terraform-associate.png" width="300">
 
