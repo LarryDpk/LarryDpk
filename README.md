@@ -6,8 +6,8 @@ I'm writing tech articles on my webSite [www.pkslow.com](https://www.pkslow.com)
 
 Contacts:
 - [WebSite](https://www.pkslow.com)
-- [GitHub](https://github.com/LarryDpk/LarryDpk)
-- [Medium](https://pkslow.medium.com/)
+- [GitHub](https://github.com/LarryDpk)
+- [Medium](https://pkslow.medium.com)
 - [Reddit](https://www.reddit.com/user/LarryDpk)
 
 
@@ -15,6 +15,7 @@ Contacts:
 - Java
 - Maven
 - Oracle/PostgreSQL/MySQL
+- Spring/Spring Boot/Spring Cloud
 - Docker
 - Kubernetes
 - GCP(Google Cloud Platform)
