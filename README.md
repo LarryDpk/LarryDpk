@@ -8,7 +8,6 @@ Contacts:
 - [WebSite](https://www.pkslow.com)
 - [GitHub](https://github.com/LarryDpk)
 - [Medium](https://pkslow.medium.com)
-- [Reddit](https://www.reddit.com/user/LarryDpk)
 
 
 ## My Skills
