@@ -11,6 +11,10 @@ Contacts:
 - [GitHub](https://github.com/LarryDpk)
 - [Medium](https://pkslow.medium.com)
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=LarryDpk/pkslow-samples,LarryDpk/terraform-101&type=Date)](https://star-history.com/#LarryDpk/pkslow-samples&LarryDpk/terraform-101&Date)
+
 
 ## My Skills
 - Java
