@@ -25,6 +25,8 @@ Contacts:
 - Kubernetes
 - GCP(Google Cloud Platform)
 - DevOps
+- Terraform
+- Flutter
 
 ## Certificates
 - 2021-12-18 Terraform Associate
@@ -50,6 +52,8 @@ Contacts:
 - Kubernetes
 - GCP(Google Cloud Platform)
 - DevOps
+- Terraform
+- Flutter
 
 
 ## 证书
@@ -61,6 +65,8 @@ Contacts:
 - 2012-06 北京市电子设计竞赛三等奖
 - 2011-12 大学英语六级
 - 2011-09 全国大学生数学建模大赛北京市一等奖
+- 2008-04 清远市三好学生
+- 2003-05 全国小学数学奥林匹克数学竞赛三等奖
 
 ## IT资源收集整理
 [IT资源收集整理](ITResources.md)
