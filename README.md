@@ -44,6 +44,12 @@ Contacts:
 大家好，我是南瓜，欢迎来到我的GitHub。我是一名在广州的Java开发。
 我会持续在我的个人网站[南瓜慢说](https://www.pkslow.com)上输出一些技术文章，希望能帮助到大家。
 
+## 我的主要输出
+- [南瓜慢说网站](https://www.pkslow.com)
+- [南瓜慢说网站示例代码](https://www.github.com/LarryDpk/pkslow-samples)
+- [Terraform 101 从入门到实践](https://www.github.com/LarryDpk/terraform-101)
+
+
 ## 我的技术栈
 - Java
 - Maven
