@@ -44,6 +44,24 @@ Contacts:
 大家好，我是南瓜，欢迎来到我的GitHub。我是一名在广州的Java开发。
 我会持续在我的个人网站[南瓜慢说](https://www.pkslow.com)上输出一些技术文章，希望能帮助到大家。
 
+将坚持记录所思所想，希望带给自己成长的同时，能帮助到别人。
+做一个简简单单的人，
+做一个普普通通的人，
+做一个不伤害社会的人，
+做一个至少有一点点益处的人。
+
+<img src="https://pkslow.oss-cn-shenzhen.aliyuncs.com/images/about/sunset.JPG" width="50%"/>
+
+过好自己渺小的一生，而不至于虚无、后悔。
+每一个不曾起舞的日子，都是对生命的辜负。
+
+
+
+更多精彩，即将到来。
+
+<img src="https://pkslow.oss-cn-shenzhen.aliyuncs.com/images/2020/06/Indonesia/pic_050.jpg" width="50%"/>
+
+---
 ## 我的主要输出
 - [南瓜慢说网站](https://www.pkslow.com)
 - [南瓜慢说网站示例代码](https://www.github.com/LarryDpk/pkslow-samples)
