@@ -18,9 +18,9 @@ My Products:
 ![Star History Chart](https://api.star-history.com/svg?repos=LarryDpk/pkslow-samples,LarryDpk/terraform-101&type=Date)
 
 ### Languages
-<img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrydpk&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
+<img height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrydpk&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=larrydpk&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=larrydpk&theme=dracula)
+[//]: # (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=larrydpk&theme=dracula&#41; ![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=larrydpk&theme=dracula&#41;)
 
 
 ## My Skills
