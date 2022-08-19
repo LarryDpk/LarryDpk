@@ -10,11 +10,17 @@ My Products:
 - [WebSite](https://www.pkslow.com)
 - [GitHub](https://github.com/LarryDpk)
 - [Pkslow Timeline](https://github.com/LarryDpk/pkslow-timeline)
-    - [iOS](https://apps.apple.com/app/pkslow-timeline/id1628613820)
+  - [iOS](https://apps.apple.com/app/pkslow-timeline/id1628613820)
 
-## Star History
+## GitHub Status
+### Star History
 
 ![Star History Chart](https://api.star-history.com/svg?repos=LarryDpk/pkslow-samples,LarryDpk/terraform-101&type=Date)
+
+### Languages
+<img height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrydpk&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=larrydpk&theme=dracula) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=larrydpk&theme=dracula)
 
 
 ## My Skills
