@@ -49,6 +49,7 @@
 ---
 ## 我的主要输出
 - [南瓜慢说网站](https://www.pkslow.com)
+- [南瓜慢说知识库](https://www.pkslow.com/docs)
 - [南瓜慢说网站示例代码](https://www.github.com/LarryDpk/pkslow-samples)
 - [Terraform 101 从入门到实践](https://www.github.com/LarryDpk/terraform-101)
 - [南瓜时线](https://github.com/LarryDpk/pkslow-timeline)
@@ -101,7 +102,6 @@ GitHub语言统计：
 
 # About LarryDpk
 
-![LarryDpk's github stats](https://github-readme-stats.vercel.app/api?username=LarryDpk&theme=radical&show_icons=true)
 
 Hi guys, I'm Larry Deng, a man and a new father. Welcome to my GitHub [LarryDpk](https://github.com/LarryDpk/LarryDpk). I'm a Java Developer based on Guangzhou now.
 
@@ -109,11 +109,15 @@ I'm writing tech articles on my webSite [www.pkslow.com](https://www.pkslow.com)
 
 My Products:
 - [WebSite](https://www.pkslow.com)
+- [Pkslow Docs](https://www.pkslow.com/docs)
 - [GitHub](https://github.com/LarryDpk)
 - [Pkslow Timeline](https://github.com/LarryDpk/pkslow-timeline)
   - [iOS](https://apps.apple.com/app/pkslow-timeline/id1628613820)
 
 ## GitHub Status
+
+![LarryDpk's github stats](https://github-readme-stats.vercel.app/api?username=LarryDpk&theme=radical&show_icons=true)
+
 ### Star History
 
 ![Star History Chart](https://api.star-history.com/svg?repos=LarryDpk/pkslow-samples,LarryDpk/terraform-101&type=Date)
