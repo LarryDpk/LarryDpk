@@ -20,7 +20,7 @@
 ![LarryDpk's github stats](https://github-readme-stats.vercel.app/api?username=LarryDpk&theme=radical&show_icons=true)
 
 
-![Star History Chart](https://api.star-history.com/svg?repos=LarryDpk/pkslow-samples,LarryDpk/terraform-101&type=Date)
+![Star History Chart](https://api.star-history.com/svg?repos=LarryDpk/pkslow-samples,LarryDpk/terraform-101,LarryDpk/Google-Bard&type=Date)
 
 
 > 看着STAR数慢慢增加，也是一件值得开心的事。
@@ -120,7 +120,7 @@ My Products:
 
 ### Star History
 
-![Star History Chart](https://api.star-history.com/svg?repos=LarryDpk/pkslow-samples,LarryDpk/terraform-101&type=Date)
+![Star History Chart](https://api.star-history.com/svg?repos=LarryDpk/pkslow-samples,LarryDpk/terraform-101,LarryDpk/Google-Bard&type=Date)
 
 ### Languages
 <img height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrydpk&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
