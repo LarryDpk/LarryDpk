@@ -36,21 +36,17 @@
 
 做一个至少有一点点益处的人。
 
-<img src="https://pkslow.oss-cn-shenzhen.aliyuncs.com/images/about/sunset.JPG" width="50%"/>
-
 过好自己渺小的一生，而不至于虚无、后悔。
 
 每一个不曾起舞的日子，都是对生命的辜负。
 
-更多精彩，即将到来。
-
-<img src="https://pkslow.oss-cn-shenzhen.aliyuncs.com/images/2020/06/Indonesia/pic_050.jpg" width="50%"/>
 
 ---
 ## 我的主要输出
 - [南瓜慢说网站](https://www.pkslow.com)
 - [南瓜慢说知识库](https://www.pkslow.com/docs)
 - [南瓜慢说网站示例代码](https://www.github.com/LarryDpk/pkslow-samples)
+- [Google Bard Java库](https://github.com/LarryDpk/Google-Bard)
 - [Terraform 101 从入门到实践](https://www.github.com/LarryDpk/terraform-101)
 - [南瓜时线](https://github.com/LarryDpk/pkslow-timeline)
     - [iOS](https://apps.apple.com/app/pkslow-timeline/id1628613820)
@@ -111,6 +107,7 @@ My Products:
 - [WebSite](https://www.pkslow.com)
 - [Pkslow Docs](https://www.pkslow.com/docs)
 - [GitHub](https://github.com/LarryDpk)
+- [Google Bard Java Lib](https://github.com/LarryDpk/Google-Bard)
 - [Pkslow Timeline](https://github.com/LarryDpk/pkslow-timeline)
   - [iOS](https://apps.apple.com/app/pkslow-timeline/id1628613820)
 
@@ -145,10 +142,5 @@ My Products:
 - 2021-12-18 Terraform Associate
 - 2020-11 Certificated Kubernetes Administrator
 - 2011-12 CET-6 (College English Test)
-
-<img src="https://pkslow.oss-cn-shenzhen.aliyuncs.com/images/about/certificates/hashicorp-certified-terraform-associate.png" width="300">
-
-
-<img src="https://pkslow.oss-cn-shenzhen.aliyuncs.com/images/about/certificates/cka.jpeg" width="300">
 
 
