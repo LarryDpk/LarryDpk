@@ -1,3 +1,52 @@
+# About LarryDpk
+
+
+Hi guys, I'm Larry Deng, a Java Developer based on Guangzhou. Welcome to my GitHub [LarryDpk](https://github.com/LarryDpk/LarryDpk).
+
+I'm writing tech articles on my webSite [www.pkslow.com](https://www.pkslow.com), hope you can find something useful for you.
+
+What I have done and be doing:
+- [WebSite](https://www.pkslow.com)
+- [Pkslow Docs](https://www.pkslow.com/docs)
+- [GitHub](https://github.com/LarryDpk)
+- [Google Bard Java Lib](https://github.com/LarryDpk/Google-Bard)
+- [Pkslow Timeline](https://github.com/LarryDpk/pkslow-timeline)
+  - [iOS](https://apps.apple.com/app/pkslow-timeline/id1628613820)
+
+## GitHub Status
+
+![LarryDpk's github stats](https://github-readme-stats.vercel.app/api?username=LarryDpk&theme=radical&show_icons=true)
+
+### Star History
+
+![Star History Chart](https://api.star-history.com/svg?repos=LarryDpk/pkslow-samples,LarryDpk/terraform-101,LarryDpk/Google-Bard&type=Date)
+
+### Languages
+<img height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrydpk&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
+
+[//]: # (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=larrydpk&theme=dracula&#41; ![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=larrydpk&theme=dracula&#41;)
+
+
+## My Skills
+- Java
+- Git/Maven/Jenkins
+- Oracle/PostgreSQL/MySQL
+- Spring/Spring Boot/Spring Cloud
+- Docker
+- Kubernetes
+- GCP(Google Cloud Platform)
+- Azure
+- DevOps
+- Terraform
+- Flutter
+
+## Certificates
+- 2021-12-18 Terraform Associate
+- 2020-11 Certificated Kubernetes Administrator
+- 2011-12 CET-6 (College English Test)
+
+
+
 # 关于南瓜
 你终于来了！
 
@@ -16,14 +65,7 @@
 - Big Data
 - Python
 
-我的GitHub成就：
-![LarryDpk's github stats](https://github-readme-stats.vercel.app/api?username=LarryDpk&theme=radical&show_icons=true)
 
-
-![Star History Chart](https://api.star-history.com/svg?repos=LarryDpk/pkslow-samples,LarryDpk/terraform-101,LarryDpk/Google-Bard&type=Date)
-
-
-> 看着STAR数慢慢增加，也是一件值得开心的事。
 
 
 将坚持记录所思所想，希望带给自己成长的同时，能帮助到别人。
@@ -80,9 +122,6 @@
 - Flutter
 - Python
 
-GitHub语言统计：
-<img height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrydpk&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
-
 
 ## 证书
 - 2021-12 Terraform Associate
@@ -95,52 +134,5 @@ GitHub语言统计：
 - 2011-09 全国大学生数学建模大赛北京市一等奖
 - 2008-04 清远市三好学生
 - 2003-05 全国小学数学奥林匹克数学竞赛三等奖
-
-# About LarryDpk
-
-
-Hi guys, I'm Larry Deng, a man and a new father. Welcome to my GitHub [LarryDpk](https://github.com/LarryDpk/LarryDpk). I'm a Java Developer based on Guangzhou now.
-
-I'm writing tech articles on my webSite [www.pkslow.com](https://www.pkslow.com), hope you can find something useful for you.
-
-My Products:
-- [WebSite](https://www.pkslow.com)
-- [Pkslow Docs](https://www.pkslow.com/docs)
-- [GitHub](https://github.com/LarryDpk)
-- [Google Bard Java Lib](https://github.com/LarryDpk/Google-Bard)
-- [Pkslow Timeline](https://github.com/LarryDpk/pkslow-timeline)
-  - [iOS](https://apps.apple.com/app/pkslow-timeline/id1628613820)
-
-## GitHub Status
-
-![LarryDpk's github stats](https://github-readme-stats.vercel.app/api?username=LarryDpk&theme=radical&show_icons=true)
-
-### Star History
-
-![Star History Chart](https://api.star-history.com/svg?repos=LarryDpk/pkslow-samples,LarryDpk/terraform-101,LarryDpk/Google-Bard&type=Date)
-
-### Languages
-<img height="240px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=larrydpk&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite">
-
-[//]: # (![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=larrydpk&theme=dracula&#41; ![]&#40;https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=larrydpk&theme=dracula&#41;)
-
-
-## My Skills
-- Java
-- Maven
-- Oracle/PostgreSQL/MySQL
-- Spring/Spring Boot/Spring Cloud
-- Docker
-- Kubernetes
-- GCP(Google Cloud Platform)
-- Azure
-- DevOps
-- Terraform
-- Flutter
-
-## Certificates
-- 2021-12-18 Terraform Associate
-- 2020-11 Certificated Kubernetes Administrator
-- 2011-12 CET-6 (College English Test)
 
 
