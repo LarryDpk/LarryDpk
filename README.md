@@ -29,6 +29,7 @@ What I have done and be doing:
 
 ## My Skills
 - Java
+- Python
 - Git/Maven/Jenkins
 - Oracle/PostgreSQL/MySQL
 - Spring/Spring Boot/Spring Cloud
@@ -111,6 +112,7 @@ What I have done and be doing:
 
 ## 我的技术栈
 - Java
+- Python
 - Maven
 - Oracle/PostgreSQL/MySQL
 - Docker
@@ -120,7 +122,7 @@ What I have done and be doing:
 - DevOps
 - Terraform
 - Flutter
-- Python
+
 
 
 ## 证书
